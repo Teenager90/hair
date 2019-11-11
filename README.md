@@ -1,5 +1,10 @@
 # hair
 公关测试   开开开
+
+void hello ()
+{
+
+}
 void USART1_GPS_task(void *pvParameters)
 {
 	BaseType_t err=pdFALSE;
